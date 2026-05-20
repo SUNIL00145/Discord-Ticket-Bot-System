@@ -1,2 +1,2 @@
-# Discord-Ticket-Bot-System
-A powerful Discord Ticket bot
+You Must Fill Config By Yours
+
